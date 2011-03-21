@@ -1,2 +1,2 @@
-./proto.pem
-./.gitignore
+proto.pem
+.gitignore
